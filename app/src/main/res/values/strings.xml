@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">我船你阅</string>
+    <string name="version_name">V_1.0.0</string>
+    <string name="setting_about_description">一叶扁舟，载您闲游</string>
+
+    <string name="head">头</string>
+    <string name="read">读</string>
+    <string name="listen">听</string>
+    <string name="watch">看</string>
+    <string name="tail">尾</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
